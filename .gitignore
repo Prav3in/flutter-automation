@@ -1,0 +1,18 @@
+# Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+
+# macOS
+.DS_Store
+
+# Test reports (generated artifacts)
+reports/
+
+# pubspec.lock is intentionally kept for reproducible builds
