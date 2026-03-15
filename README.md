@@ -271,6 +271,11 @@ DEVICE ?= emulator-5554   # change this to your preferred device ID
 
 ### Allure Reports
 
+Example report:
+
+<img width="1324" height="836" alt="Screenshot 2026-03-15 at 12 49 16 PM" src="https://github.com/user-attachments/assets/d59aefcf-8ccd-43f2-aa53-4d8e963daf22" />
+
+
 Allure provides a full HTML report with step-by-step logs, timelines, and pass/fail history.
 
 #### Generate and open report
